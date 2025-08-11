@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivos de cache
+.cache/
+.vite/
+
+# Sistema operacional
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript
+*.tsbuildinfo
+
+# Dependency directories
+.pnp.*
+.pnp.js
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Outros
+.vitest/
+coverage/
+*.test.ts
+*.test.tsx
