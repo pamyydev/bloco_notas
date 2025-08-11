@@ -36,7 +36,6 @@ Este repositório contém **todo o código do frontend** e um link para o reposi
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | Estilização da aplicação |
 ---
 ## 🚀 Como Rodar o Frontend
-```bash
 # Clone o repositório
 git clone https://github.com/SEU_USUARIO/TaskManager.git
 
@@ -48,6 +47,7 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+
 > ⚠️ Importante: configure a URL da API no arquivo .env para conectar ao backend.
 
 🛠️ Backend
